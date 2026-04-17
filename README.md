@@ -21,7 +21,7 @@ A fully functional e-commerce shopping cart application built with React, featur
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) _(Add your deployed URL here)_
+[View Live Demo](#) https://shopping-cart-drab-sigma.vercel.app/
 
 ## 📋 Table of Contents
 
